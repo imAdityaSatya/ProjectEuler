@@ -6,8 +6,7 @@ public class Prob02 {
 		int sum=0;
 		int x=1;
 		int y=2;
-		while(x<4000000)
-		{
+		while(x<4000000) {
 			if(x%2==0) {
 				sum=sum+x;
 			}
